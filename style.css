@@ -1,0 +1,18 @@
+.brand-gradient{
+    background: #ff5e00; 
+    background: -webkit-linear-gradient(to bottom, #ff5e00, #000000); 
+    background: linear-gradient(to top,#ff5e00, #000000); 
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.banner-holder ,.main-page-header{
+    background-image: url(IMG/pexels-asad-photo-maldives-3293148.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+.custom-nav {
+    backdrop-filter: blur(8px);
+}
